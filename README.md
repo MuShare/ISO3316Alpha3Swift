@@ -22,7 +22,7 @@ pod 'ISO3316Alpha3Swift'
 
 ## Author
 
-lm2343635, lm2343635@126.com
+MuShare, mushare@mushare.cn
 
 ## License
 
