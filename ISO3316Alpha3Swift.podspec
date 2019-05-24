@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/lm2343635/ISO3316Alpha3Swift'
+  s.homepage         = 'https://github.com/MuShare/ISO3316Alpha3Swift'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'lm2343635' => 'lm2343635@126.com' }
-  s.source           = { :git => 'https://github.com/lm2343635/ISO3316Alpha3Swift.git', :tag => s.version.to_s }
+  s.author           = { 'MuShare' => 'mushare@mushare.cn' }
+  s.source           = { :git => 'https://github.com/MuShare/ISO3316Alpha3Swift.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
