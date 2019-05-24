@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ISO3316Alpha3Swift_Example' do
+  pod 'ISO3316Alpha3Swift', :path => '../'
+
+  target 'ISO3316Alpha3Swift_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
