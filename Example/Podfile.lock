@@ -1,0 +1,16 @@
+PODS:
+  - ISO3316Alpha3Swift (0.1.0)
+
+DEPENDENCIES:
+  - ISO3316Alpha3Swift (from `../`)
+
+EXTERNAL SOURCES:
+  ISO3316Alpha3Swift:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ISO3316Alpha3Swift: d8be3291d110bd0da9fff7ebf1cb78f8ae7b6661
+
+PODFILE CHECKSUM: e0ff7e21f5a43476fdaa1d7370bea24bedef1e81
+
+COCOAPODS: 1.6.1
